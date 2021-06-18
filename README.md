@@ -13,10 +13,10 @@
 - [Bootstrap 4](#).
 
 ### Mini projeto final com todos conceitos
-<img src="resource/img/demo.jpg">
+<img align="center" src="resource/img/demo.jpg">
 
 ### Diagrama de classes
-<img src="resource/img/diagrama.jpg">
+<img align="center" src="resource/img/diagrama.jpg">
 
 ## Pilares da POO
 
