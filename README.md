@@ -1,5 +1,5 @@
 
-## Desenvolvimento de conceitos de programação orientada a objeto Php
+<h1 align="center">Desenvolvimento de conceitos de programação orientada a objeto Php</h1>
 
 ### Neste projeto serão vistos os 3 pilares principais da POO (Sintaxe Básica Tipos Variáveis Constantes Expressões Operadores Estruturas de Controle Funções Classes e Objetos) e exercícios
 
@@ -16,7 +16,7 @@
 <img align="center" src="resource/img/demo.jpg">
 
 ### Diagrama de classes
-<img align="center" src="resource/img/diagrama.jpg">
+<img align="center" src="resource/img/diagrama.jpg" width="400">
 
 ## Pilares da POO
 
