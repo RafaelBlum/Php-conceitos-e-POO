@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css"  href="resource/fontawesome-free/css/all.min.css"/>
     <link rel="stylesheet" type="text/css" href="resource/bootstrap4/css/bootstrap.min.css">
     <link rel="stylesheet" href="resource/css/style.css" type="text/css">
-    <title>Desenvolvimento Php </title>
+    <title>POO Php </title>
 </head>
 
 <body>
