@@ -12,12 +12,13 @@
 - [CSS](#).
 - [Bootstrap 4](#).
 
-### Mini projeto final com todos conceitos
-<img align="center" src="resource/img/demo.jpg" style="text-align: center;">
+<div style="text-align: center;">
+  ### Mini projeto final com todos conceitos
+  <img align="center" src="resource/img/demo.jpg">
 
-### Diagrama de classes
-<img align="center" src="resource/img/diagrama.jpg" width="500" style="text-align: center;">
-
+  ### Diagrama de classes
+  <img align="center" src="resource/img/diagrama.jpg" width="500">
+</div>
 ## Pilares da POO
 
 ## Encapsulamento
