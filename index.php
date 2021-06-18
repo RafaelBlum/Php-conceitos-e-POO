@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css"  href="resource/fontawesome-free/css/all.min.css"/>
-    <link rel="stylesheet" type="text/css" href="resource/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="resource/bootstrap4/css/bootstrap.min.css">
     <link rel="stylesheet" href="resource/css/style.css" type="text/css">
     <title>Desenvolvimento Php </title>
 </head>
@@ -106,9 +106,9 @@
     </div>
 
 
-    <script type="text/javascript" src="resource/jquery-3.2.1.slim.min.js"></script>
-    <script type="text/javascript" src="resource/popper.min.js"></script>
-    <script type="text/javascript" src="resource/bootstrap.min.js"></script>
+    <script type="text/javascript" src="resource/bootstrap4/js/jquery-3.2.1.slim.min.js"></script>
+    <script type="text/javascript" src="resource/bootstrap4/js/popper.min.js"></script>
+    <script type="text/javascript" src="resource/bootstrap4/js/bootstrap.min.js"></script>
 
 </body>
 </html>
