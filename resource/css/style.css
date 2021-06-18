@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Source Code Pro", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 12px;
+}
+
+.med{
+    width: 25px;
+    height: 25px;
+}
+
+.medlogo{
+    width: 55px;
+    height: 55px;
+}
+
+.quadro{
+    padding: 15px; 
+    color: black;
+    transition: 1s;
+}
+.quadro:hover{
+    padding: 25px; 
+    color: white;
+    font-size: 18px;
+}

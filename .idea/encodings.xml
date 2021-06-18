@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/inicio/datas.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inicio/funcoes.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inicio/operadores.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/objetos/Pessoa.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/objetos/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parts/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/heranca/Aluno.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/heranca/Funcionario.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/heranca/Pessoa.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/heranca/principal.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/polimorfismo/Ave.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/polimorfismo/Peixe.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poo/polimorfismo/principal.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projectFinal/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projectFinal/Video.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projectFinal/Visualizacao.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projectFinal/home.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/css/style.css" charset="UTF-8" />
+  </component>
+</project>
