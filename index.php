@@ -52,7 +52,7 @@
                             <h5 class="card-title"><a href="examples/relacionamento/relacionamentos.php">Relacionamento</a></h5>
                             <div class="card-text">No relacionamento entre as classes trabalhamos com as <code>multiplicidades</code>,
                             os atributos que serão ligados entre as classes.</div>
-                            <code>class homem implements humano</code>
+                            <code>class homem implements Pessoa</code>
                         </div>
                     </div>
                 </div>
