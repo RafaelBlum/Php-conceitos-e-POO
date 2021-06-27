@@ -14,7 +14,8 @@ abstract class Pessoa {
         $this->experiencia = $exp;
     }
 
-    protected function ganhaExp($m){
+    protected function ganhaExp($m)
+    {
         $this->experiencia += $m;
     }
 
