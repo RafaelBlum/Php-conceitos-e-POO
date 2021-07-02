@@ -1,0 +1,29 @@
+{
+  "nome": "RafaelBlum/php_poo",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "RafaelBlum",
+      "email": "rafaelblum_digital@hotmail.com",
+      "role": "Developer",
+      "homepage": "https://corporatix.com.br"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "phpmailer/phpmailer": "6.0.*",
+    "coffeecode/datalayer": "1.1.2"
+  }
+}
